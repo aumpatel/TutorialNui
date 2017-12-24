@@ -1,0 +1,7 @@
+{
+  "type": "EnviromentInfoScreen",
+  "contents": {
+    "type": "UILabel",
+    "text": "Enviroment Info"
+  }
+}
